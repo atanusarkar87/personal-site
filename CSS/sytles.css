@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+    background-color: rgb(240, 247, 226);
+    font-family: 'montserrat',sans-serif;}
+
+h1 {font-family:'sacramento',sans-serif;
+    margin: 30px AUTO 0 auto;
+    font-size: 6rem;
+    color: #4967e9;
+    }
+hr {border-style: none; border-top: dotted;width: 10%;}
+H2 {color: #4967e9; font-weight: normal;}
+H3 {color: #11999E;}
+p  {line-height: 2rem;}
+
+#top-cloud {position: relative; margin-left: 400px;}
+#bottom-cloud {position: absolute;}
+
+.skill-row {width: 50%;margin: 100px auto;text-align: left;}
+.left {text-align: left;}
+.skill1 {width: 30%;height: 40%;float: left;margin-right: 30px;}
+.skill2 {width: 30%;float: right; margin-left: 30px;}
+.btn (background color: red;)
